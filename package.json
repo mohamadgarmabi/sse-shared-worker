@@ -1,12 +1,12 @@
 {
   "name": "sse-shared-worker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Utilities for Server-Sent Events (SSE) and SharedWorker-based SSE fan-out in the browser.",
   "license": "MIT",
   "author": "Mohammad Garmabi",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/m-garmabi/sse-shared-worker"
   },
   "keywords": [
     "sse",
